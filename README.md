@@ -8,22 +8,22 @@ This repository contains a comprehensive collection of documents, diagrams, and 
 ## Project Files
 
 ### 1. Business Analysis Document
-- **Goals, Objectives and Problem/Opportunity Statements**: A summary of the project's objectives and an analysis of the current challenges and opportunities within the system, informed by feedback from key stakeholders, including professors and students.
+- **Goals, Objectives and Problem/Opportunity Statements**: A summary of the project's objectives and an analysis of the current challenges and opportunities within the system, informed by feedback from key stakeholders, including instructors and students.
 - **Current State Process Maps (BPMN Diagram)**: Visual representations of the existing processes within the system, modeled using BPMN. 
 - **Stakeholder Requirements**: Key system features and functionalities required by stakeholders and prioritized within the project scope, which form the basis for designing solutions.
 - **Future State Process Maps (BPMN Diagram)**: Optimized process models created using BPMN to illustrate the proposed workflows and system improvements. 
 
 ### 2. Use Cases Specification
-- **Use Case Diagram**: A diagram visualizing the interactions between users (professors and students) and the system.
-- **Use Case Scenarios**: Detailed descriptions of interactions between users (professors, students) and the system to achieve goals, include Basic, Alternative and Exception Flow. 
+- **Use Case Diagram**: A diagram visualizing the interactions between users (instructors and students) and the system.
+- **Use Case Scenarios**: Detailed descriptions of interactions between users (instructors and students) and the system to achieve goals, include Basic, Alternative and Exception Flow. 
 - **Business Rules**: Specific guidelines and constraints that govern how the system operates.
 - **Business Data Dictionary**: A centralized repository that defines and describes the key data elements used within the system.
 - **User Interface Specification**: Layout, visual elements, interactions, and behavior of the system user interface. 
 
 ### 3. User Research Document
-- **Survey/ Interview Questions**: Questions designed to gather relevant information from professors and students about their experiences and opinions regarding the current LMS student engagement processes. 
+- **Survey/ Interview Questions**: Questions designed to gather relevant information from instructors and students about their experiences and opinions regarding the current LMS student engagement processes. 
 
 ## Conclusion
-This project offers a robust framework for enhancing the LMS system. By implementing the proposed improvements, as outlined in the provided requirements and diagrams, the college can foster a more engaging experience for both students and professors.
+This project offers a robust framework for enhancing the LMS system. By implementing the proposed improvements, as outlined in the provided requirements and diagrams, the college can foster a more engaging experience for both instructors and students.
 
 Feel free to explore the files and diagrams, and reach out with any questions!
