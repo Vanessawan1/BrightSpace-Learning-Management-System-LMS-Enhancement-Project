@@ -1,22 +1,29 @@
 # BrightSpace Learning Management System (LMS) Enhancement Project
 
 ## Overview
-The BrightSpace Learning Management System (LMS) Enhancement Project focuses on business analysis and process improvement to optimize student engagement on the college's LMS platform. The project involves gathering stakeholder requirements, creating business process models, use case models, and defining UI requirements to enhance the LMS based on feedback from real stakeholders.
+The BrightSpace Learning Management System (LMS) Enhancement Project focuses on business analysis and process improvement to optimize student engagement on the college's LMS platform. This project involves conducting user research, gathering stakeholder requirements, developing business process models and use case scenarios, and defining UI specifications—all aimed at enhancing the LMS based on valuable feedback from actual stakeholders.
 
 This repository contains a comprehensive collection of documents, diagrams, and data files that detail the design and implementation of proposed system enhancements.
 
-## Contents
-- **Goals, Objectives and Problem/Opportunity Statements**: A summary of the project's objectives and an analysis of the current challenges and opportunities within the system, informed by feedback from key stakeholders, including professors and students.
-- **Current State Process Maps (BPMN Diagram)**: Visual representations of the existing processes within the system, modeled using BPMN.
-- **User Research**: 
-- **Stakeholder Requirements**: Key system features and functionalities required by stakeholders and prioritized within the project scope, which form the basis for designing solutions.
-- **Future State Process Maps (BPMN Diagram)**: Optimized process models created using BPMN to illustrate the proposed workflows and system improvements. 
-- **Use Cases**: Detailed descriptions of specific interactions between users (professors, students) and the system, with business rules and data dictionary detailing the system’s operation and data handling.
-- **UI Requirements**: A detailed specification of the user interface design elements, including layout, navigation, and interactive components. 
-
-
 ## Project Files
 
+### 1. Business Analysis Document
+- **Goals, Objectives and Problem/Opportunity Statements**: A summary of the project's objectives and an analysis of the current challenges and opportunities within the system, informed by feedback from key stakeholders, including professors and students.
+- **Current State Process Maps (BPMN Diagram)**: Visual representations of the existing processes within the system, modeled using BPMN. 
+- **Stakeholder Requirements**: Key system features and functionalities required by stakeholders and prioritized within the project scope, which form the basis for designing solutions.
+- **Future State Process Maps (BPMN Diagram)**: Optimized process models created using BPMN to illustrate the proposed workflows and system improvements. 
 
+### 2. Use Cases Specification
+- **Use Case Diagram**: A diagram visualizing the interactions between users (professors and students) and the system.
+- **Use Case Scenarios**: Detailed descriptions of interactions between users (professors, students) and the system to achieve goals, include Basic, Alternative and Exception Flow. 
+- **Business Rules**: Specific guidelines and constraints that govern how the system operates.
+- **Business Data Dictionary**: A centralized repository that defines and describes the key data elements used within the system.
+- **User Interface Specification**: Layout, visual elements, interactions, and behavior of the system user interface. 
+
+### 3. User Research Document
+- **Survey/ Interview Questions**: Questions designed to gather relevant information from professors and students about their experiences and opinions regarding the current LMS student engagement processes. 
 
 ## Conclusion
+This project offers a robust framework for enhancing the LMS system. By implementing the proposed improvements, as outlined in the provided requirements and diagrams, the college can foster a more engaging experience for both students and professors.
+
+Feel free to explore the files and diagrams, and reach out with any questions!
