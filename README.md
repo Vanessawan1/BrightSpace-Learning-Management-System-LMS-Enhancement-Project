@@ -14,7 +14,6 @@ This repository contains a comprehensive collection of documents, diagrams, and 
 - **Future State Process Maps (BPMN Diagram)**: Optimized process models created using BPMN to illustrate the proposed workflows and system improvements. 
 
 ### 2. Use Cases Specification
-- **Use Case Diagram**: A diagram visualizing the interactions between users (instructors and students) and the system.
 - **Use Case Scenarios**: Detailed descriptions of interactions between users (instructors and students) and the system to achieve goals, include Basic, Alternative and Exception Flow. 
 - **Business Rules**: Specific guidelines and constraints that govern how the system operates.
 - **Business Data Dictionary**: A centralized repository that defines and describes the key data elements used within the system.
