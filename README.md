@@ -7,7 +7,7 @@ This repository contains a comprehensive collection of documents, diagrams, and 
 
 ## Project Files
 
-### 1. Business Analysis Requirements Document
+### 1. Business Requirements Document (BRD)
 - **Goals, Objectives and Problem/Opportunity Statements**: A summary of the project's objectives and an analysis of the current challenges and opportunities within the system, informed by feedback from key stakeholders, including instructors and students.
 - **Current State Process Maps (BPMN Diagram)**: Visual representations of the existing processes within the system, modeled using BPMN. 
 - **Stakeholder Requirements**: Key system features and functionalities required by stakeholders and prioritized within the project scope, which form the basis for designing solutions.
