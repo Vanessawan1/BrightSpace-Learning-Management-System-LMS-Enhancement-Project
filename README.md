@@ -21,6 +21,7 @@ This repository contains a comprehensive collection of documents, diagrams, and 
 
 ### 3. User Research Document
 - **Survey/ Interview Questions**: Questions designed to gather relevant information from instructors and students about their experiences and opinions regarding the current LMS student engagement processes. 
+- **User Persona**: A fictional representation of a typical user within a target audience. 
 
 ## Conclusion
 This project offers a robust framework for enhancing the LMS system. By implementing the proposed improvements, as outlined in the provided requirements and diagrams, the college can foster a more engaging experience for both instructors and students.
